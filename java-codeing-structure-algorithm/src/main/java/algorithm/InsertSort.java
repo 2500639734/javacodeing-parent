@@ -5,6 +5,7 @@ import org.junit.Test;
 import java.util.Arrays;
 
 /**
+ * 插入排序
  * Created by shenke on 2018/12/11.
  */
 public class InsertSort {
