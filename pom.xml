@@ -12,6 +12,7 @@
         <module>java-codeing-structure-algorithm</module>
         <module>java-codeing-thread</module>
         <module>java-codeing-design-mode</module>
+        <module>java-codeing-jvm</module>
     </modules>
 
 </project>
