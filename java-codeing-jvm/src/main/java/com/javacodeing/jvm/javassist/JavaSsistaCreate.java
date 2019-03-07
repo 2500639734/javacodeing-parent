@@ -8,7 +8,7 @@ import java.io.IOException;
 /**
  * javassist技术生成字节码文件
  */
-public class JavaSsist {
+public class JavaSsistaCreate {
 
     public static void main(String[] args) throws CannotCompileException, NotFoundException, IOException {
         ClassPool classPool = ClassPool.getDefault();
